@@ -8,5 +8,3 @@ An Empty Single Page HTMLX + Bootstrap Page
 * [Bootstrap](https://getbootstrap.com/)
 * [Icons](https://icons.getbootstrap.com/)
 * [Roboto Font](https://fonts.google.com/specimen/Roboto)
-* []()
-
